@@ -1,0 +1,39 @@
+style.css
+
+  head, h1, body {
+    font-family: "Arial-narrow", sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: paleturquoise;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+    max-width: 70%;
+    max-height: 50%;
+align-content: center;
+padding: 10px;
+}
+
+imgcaption {
+   align-content: center;
+
+}
+
+figcaption {
+align-content:center;
+justify-content: center;
+font-size: 12px; 
